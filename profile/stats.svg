@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">JiaMing Li&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 30, Total Commits  : 2598, Total PRs: 1190, Total Issues: 3, Contributed to (last year): 21</desc>
+        <desc id="descId">Total Stars Earned: 30, Total Commits  : 2649, Total PRs: 1243, Total Issues: 3, Contributed to (last year): 21</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 92.51341265249992;
+        stroke-dashoffset: 92.27310991862917;
       }
     }
   
